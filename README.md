@@ -94,6 +94,8 @@ Open a browser and type http://127.0.0.1:1880
 * Install **node-red-contrib-aedes (https://flows.nodered.org/node/node-red-contrib-aedes)** (v. 0.9.0) 
 * search with the keyword **dashboard**
 * Install **node-red-dashboard (https://flows.nodered.org/node/node-red-dashboard)** (v. 3.2.3)
+* search with the keyword **modbus**
+* Install **node-red-contrib-modbus (https://flows.nodered.org/node/node-red-contrib-modbus)** (v. 5.25.0)
 
 ## Install emulators
 
